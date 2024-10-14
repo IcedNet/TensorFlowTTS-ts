@@ -10,9 +10,9 @@
     "build:clean": "rimraf dist",
     "open": "open dist/index.html",
     "start": "ts-node src/index.ts",
-    "format": "yarn prettier --write",
+    "format": "npx prettier --write",
     "build": "bash ./scripts/build.sh",
-    "format:check": "yarn prettier --check",
+    "format:check": "npx prettier --check",
     "prettier": "prettier \"**/*.+(js|jsx|ts|tsx|json)\""
   },
   "devDependencies": {
