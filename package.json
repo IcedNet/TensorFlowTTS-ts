@@ -16,16 +16,16 @@
     "prettier": "prettier \"**/*.+(js|jsx|ts|tsx|json)\""
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^24.0.1",
-    "@rollup/plugin-node-resolve": "^15.0.1",
-    "@tensorflow/tfjs": "^4.3.0",
-    "prettier": "^2.8.4",
+    "@rollup/plugin-commonjs": "^28.0.0",
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@tensorflow/tfjs": "^4.21.0",
+    "prettier": "^3.3.3",
     "replace-special-characters": "^1.2.7",
-    "rimraf": "^4.4.0",
-    "rollup": "^3.19.1",
-    "rollup-plugin-typescript2": "^0.34.1",
-    "to-words": "^3.5.0",
+    "rimraf": "^6.0.1",
+    "rollup": "^4.24.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "to-words": "^4.1.0",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.3"
   }
 }
